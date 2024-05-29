@@ -18,7 +18,6 @@ and streamlining the booking experience.
 
 # Screenshots
 ![Evalley SS1](https://github.com/Ankitsahu1234/EvalleyApp/assets/84216771/df928ff1-16e6-4667-9d6f-3d3cdd3d28a2)
-
 ![Evalley SS2](https://github.com/Ankitsahu1234/EvalleyApp/assets/84216771/7f19adcd-7ee8-482a-bfa9-7ade29c0ceda)
 
 ![Evalley SS3](https://github.com/Ankitsahu1234/EvalleyApp/assets/84216771/c0747706-c03d-4f04-9f17-a90c62b8f7bd)

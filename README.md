@@ -1,6 +1,9 @@
 # EValleyApp
 This is an Android App, used for e-booking of marketplaces in a city.
 
+# AppStore Link
+https://www.amazon.com/gp/product/B0CTFTN9PL
+
 # Features
 • Developed and deployed an Android e-booking app for marketplaces, resulting in a 40% increase in bookings and a 25%
 reduction in customer wait time, enhancing customer satisfaction and driving revenue growth.

@@ -15,3 +15,6 @@ reduction in customer wait time, enhancing customer satisfaction and driving rev
 and streamlining the booking experience.
 
 • Utilized Java, XML, and MongoDB in the development process.
+
+# Screenshots
+![WhatsApp Image 2022-11-07 at 8 23 40 PM](https://github.com/Ankitsahu1234/EvalleyApp/assets/84216771/c7bfae73-0a57-4762-a666-6e093c6e4655)
